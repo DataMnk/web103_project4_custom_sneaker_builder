@@ -37,8 +37,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://imgur.com/a/syM5adC<img width="1179" height="987" alt="custom-cars" src="https://github.com/user-attachments/assets/b2202516-19fd-4ca1-8476-6a9151abf9f2" />
 
-<img src='https://imgur.com/a/syM5adC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
